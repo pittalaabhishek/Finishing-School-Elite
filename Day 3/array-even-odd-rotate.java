@@ -43,7 +43,7 @@ public class third{
             arr[i]=arr[i-1];
         }
         arr[s]=even;
-    }
+    } 
     
     public static void main(String[] args) throws IOException{
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
