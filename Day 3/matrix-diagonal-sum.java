@@ -51,11 +51,11 @@ public class fourth{
         int[][] arr=new int[n][n];
         for(int i=0;i<n;i++){
             String s[]=br.readLine().split(" ");
-            for(int j=0;j<n;j++)
+            for(int j=0;j<n;j+=1)
             arr[i][j]=Integer.parseInt(s[j]);
         }
         int sum=0,flag=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i+=1){
             for(int j=0;j<n;j++){
                 if(i==j||i+j==n-1){
                     sum += arr[i][j];
@@ -64,5 +64,6 @@ public class fourth{
         }
         bw.write(sum+"\n");
         bw.flush();
+
     }
 }
