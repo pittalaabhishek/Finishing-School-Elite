@@ -34,7 +34,7 @@ Explanation :-
 -1 + -1 is -2 
 and -2 * 2 is -4
 */
-//Only single digits Present and Divided By zero Case ot tested
+//Only single digits Present and Divided By zero Case not tested
 
 import java.util.*;
 
