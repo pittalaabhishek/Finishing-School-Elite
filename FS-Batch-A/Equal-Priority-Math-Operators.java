@@ -1,3 +1,4 @@
+
 /*
 Scoops an 2nd class boy is doing a maths assignment given by his teacher.
 Scoops is very poor at maths. 
@@ -35,7 +36,7 @@ Explanation :-
 and -2 * 2 is -4
 */
 //Only single digits Present and Divided By zero Case not tested
-
+//testing sync
 import java.util.*;
 
 public class Main {
