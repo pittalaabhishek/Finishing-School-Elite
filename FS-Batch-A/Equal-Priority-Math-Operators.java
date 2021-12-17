@@ -39,6 +39,7 @@ and -2 * 2 is -4
 //testing sync
 //sync test 3
 //git disabled
+//git reenabled
 import java.util.*;
 
 public class Main {
