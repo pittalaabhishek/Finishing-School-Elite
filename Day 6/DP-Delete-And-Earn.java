@@ -62,7 +62,7 @@ And again pick the number 5 to score 5 points. Totally 15 is the score.
 import java.util.*;
 
 public class third {
-    public static int func(int[] dp, int[] arr, int n) {
+    public int func(int[] dp, int[] arr, int n) {
         if (n < 0)
             return 0;
         if (dp[n] != 0)
@@ -79,7 +79,7 @@ public class third {
             arr[d]++;
         }
         int[] dp = new int[10001];
-        int ans = func(dp, arr, 10000);
+        int ans = new third().func(dp, arr, 10000);
         System.out.println(ans);
     }
 }
