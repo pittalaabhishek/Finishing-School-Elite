@@ -13,7 +13,7 @@ any number of characters (possibly zero) from the front of the word and
 any number of characters (possibly zero) from the back of the word.
 
 Input Format:
--------------
+------------
 A single string, the word contains only lowercase alphabets [a-z].
 
 Output Format:

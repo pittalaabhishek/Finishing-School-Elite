@@ -14,7 +14,6 @@ Output Format:
 --------------
 Print a String, decoded string.
 
-
 Sample Input-1:
 ---------------
 aeilmmor

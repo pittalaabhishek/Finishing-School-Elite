@@ -53,7 +53,8 @@ Sample Input-2:
 
 Sample Output-2:
 ----------------
-2*/
+2
+*/
 
 import java.util.*;
 
